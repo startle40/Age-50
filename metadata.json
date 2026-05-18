@@ -1,0 +1,8 @@
+{
+  "name": "BoomerHealth Essentials",
+  "description": "Functional strength routines designed specifically for seniors to improve arm strength and maintain independence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
